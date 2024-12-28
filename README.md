@@ -1,5 +1,3 @@
-### Olá, Bem-Vindo(a) ao meu GitHub! Me chamo *João Vinícius*, tenho 21 anos e atualmente trabalho como *Desenvolvedor Web* em transição para desenvolvedor *Full stack*. Possuo imenso interesse na área de *Redes de Computadores* e *DevOps*. 
-
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaVincus&theme=github_dark&hide_border=true&show_icons=true&icon_color=007ACC&title_color=3B7ED4&text_color=FFF) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JoaVincus&layout=compact&theme=github_dark&hide_border=true&title_color=3B7ED4&text_color=FFF) </tr></td>
 <br>
