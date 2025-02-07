@@ -1,4 +1,4 @@
-## 👋 "Hello World", me chamo João Vinícius
+##  "Hello World", me chamo João Vinícius
 
  Sou estudante do curso técnico de Informática pelo IFRN e progamador Front-end. Apaixonado por tecnologia e eletrônica. Tenho foco em desenvolvimento web e interesse profundo em hardwares.
 
