@@ -1,6 +1,6 @@
-# Sobre mim
+## 👋 "Hello World", me chamo João Vinícius
 
-Estudante do curso técnico de Informática pelo IFRN e progamador Front-end. Apaixonado por tecnologia e eletrônica. Tenho foco em desenvolvimento web e interesse profundo em hardwares.
+ Sou estudante do curso técnico de Informática pelo IFRN e progamador Front-end. Apaixonado por tecnologia e eletrônica. Tenho foco em desenvolvimento web e interesse profundo em hardwares.
 
 Atualmente estou me profissionalizando como desenvolvedor Full Stack com JavaScript, porém possuo conhecimentos de UI Designer e Internet das coisas.
 
